@@ -1,0 +1,81 @@
+Front-end Observing the model
+
+Front-end receiving player/deck information, card information
+
+  Observable Class:
+
+    Everything being observed is an observable, including player, possibly cardpile, possibly point, etc
+
+    Register method {
+      list add the view as the observer
+
+      the observer add this player
+    }
+
+    Remove {
+      list remove the observer
+    }
+
+    notifyObservers (Edge e)
+
+    notifyObservers ()
+
+  PointObserver Class
+    update on Points, register in player object
+
+
+  HandObserver Class
+   update on size; similar mechanics as other things, register in player object
+
+  CardPile Class
+    When creating a deck, register the view as observer
+    For the observer, add it into the hashmap
+
+
+
+Front-end receiving card transition
+
+  Edge class including source, destination, and card.
+
+
+  BoardObserver Class:
+
+  Observing for card transition (Edge e), each move by the player
+
+  player implemented BoardObserver, whenever a card transition
+
+
+
+
+Model Observing the Front-end (The button action)
+
+
+the button just have to pass information to the backend, since when backend changes, the front end changes
+correspondently. the front end do not needs to change as one clicks on the button
+
+  Observable Class, the view registers model as an observer.
+
+  GameViewObserver Class:
+
+     Model maintain a list of all cardpiles added. When receiving an edge from the button and get notified,
+     it transit cards from certain places (src) to other places (dest).
+
+
+
+
+
+ID System
+
+  Static player counter = 1;
+  Static CardPile counter = player counter + 1;
+
+  In Game, player has static counter from 1 - 4
+
+  initial deck = 5;
+  discard pile = 6;
+
+  CardDeck (Deck extends CardPile)
+
+  CardPile (Hand) related to the Player hash(id)
+
+  CardPile (Set) related to the Player hash(card Pile counter)

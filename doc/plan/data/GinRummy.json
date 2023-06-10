@@ -1,0 +1,80 @@
+{
+  "game": "GinRummy",
+  "tags": {
+    "GroupNames": [
+      "Deck",
+      "Hand",
+      "Discard",
+      "Set"
+    ],
+    "BeforeGame": {
+      "description": "Shuffle the deck and deal cards to the players."
+    },
+    "Game": {
+      "Round": {
+        "BeforeRound": {},
+        "DuringRound": {
+          "Turn": {
+            "Description": "Defines the phases during a turn",
+            "BeforeTurn": {},
+            "Phases": [
+              {
+                "Description": "Pickup",
+                "Allowed": [
+                  "DrawCardDeck",
+                  "DrawCardDiscard"
+                ],
+                "GroupsToCheck": {
+                  "Hand": [
+                    "Gained_1_Card"
+                  ]
+                }
+              },
+              {
+                "Description": "Play",
+                "Allowed": {
+                  "PlayCardsOnBoard": "inf"
+                },
+                "GroupsToCheck": {
+                  "Sets": [
+                    "isSetGroupMatchThing",
+                    "isRun"
+                  ]
+                }
+              },
+              {
+                "Description": "Discard",
+                "Allowed": [
+                  "AllowDiscard"
+                ],
+                "GroupsToCheck": {
+                  "Hand": [
+                    "Lost_1_Card"
+                  ]
+                }
+              }
+            ],
+            "AfterTurn": {
+              "WinCondition": {
+                "GroupsToCheck": {
+                  "Hand": [
+                    "isEmpty"
+                  ]
+                }
+              }
+            }
+          },
+          "EndOfRoundCondition": {
+            "description": "Tricks"
+          }
+        },
+        "AfterRound": {
+          "description": "cleanup"
+        }
+      }
+    },
+    "AfterGame": {
+      "description": "Cleanup. Go home. Get some sleep."
+    }
+  }
+}

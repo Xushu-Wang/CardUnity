@@ -1,0 +1,526 @@
+2023-04-15 21:37:31,882 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 21:41:13,278 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 21:47:59,509 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:08:49,756 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:22:32,286 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:26:07,519 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:27:54,478 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:28:36,360 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-15 22:28:52,587 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-16 22:17:55,807 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-16 22:21:31,553 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-16 22:33:50,716 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-16 23:05:11,833 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-17 22:44:41,371 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-17 23:08:14,891 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-17 23:08:41,475 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-17 23:09:22,644 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-17 23:20:08,098 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 15:59:06,928 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 16:09:53,563 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 16:35:27,516 INFO f.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 16:42:28,323 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 16:43:01,817 ERROR o.f.p.b.v.ValidationStrategy [main] Error during parser validation: The given filename "" isn't allowed with the current OS.
+2023-04-18 16:43:01,829 ERROR o.f.p.b.v.ValidationStrategy [main] Error during parser validation: The given filename "GinRummy/:" isn't allowed with the current OS.
+2023-04-18 16:43:01,882 INFO o.f.p.b.BuilderJSONParser [main] Successfully wrote game to /data/json/BuilderParserTestStructure.json.
+2023-04-18 16:43:05,131 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-18 16:43:05,141 ERROR o.f.p.r.RunnerJSONParser [main] The specified filepath "bogus/filepath" was not found.
+2023-04-18 16:43:05,159 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-18 16:43:05,160 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-18 16:43:05,185 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-18 16:43:05,186 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-18 16:43:05,198 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-18 16:43:05,199 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-18 16:57:12,635 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 16:57:51,329 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 17:02:16,823 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:08:11,649 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:19:18,317 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:19:51,359 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:20:07,140 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:47:37,817 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:54:28,696 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-18 22:56:09,027 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 01:09:42,981 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 01:39:50,915 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 01:46:08,371 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 01:46:49,190 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 01:49:32,862 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 02:59:44,147 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:06:40,124 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:10:56,589 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:13:47,903 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:17:16,010 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:20:06,337 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:20:53,138 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:23:27,685 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:31:40,120 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:32:45,795 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:37:12,903 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:38:18,489 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:39:45,433 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:40:51,965 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:41:16,245 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:47:59,919 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:48:31,357 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:51:31,837 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:52:57,792 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:54:18,631 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:58:04,078 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 03:59:46,703 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:00:25,798 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:02:46,351 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:12:46,721 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:13:12,026 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:13:34,441 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:14:30,662 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:17:05,785 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:20:27,565 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 04:21:55,536 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 14:26:55,139 ERROR o.f.p.b.v.ValidationStrategy [main] Error during parser validation: The given filename "" isn't allowed with the current OS.
+2023-04-19 14:26:55,156 ERROR o.f.p.b.v.ValidationStrategy [main] Error during parser validation: The given filename "GinRummy/:" isn't allowed with the current OS.
+2023-04-19 14:26:55,286 INFO o.f.p.b.BuilderJSONParser [main] Successfully wrote game to /data/json/BuilderParserTestStructure.json.
+2023-04-19 14:26:57,498 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-19 14:26:57,504 ERROR o.f.p.r.RunnerJSONParser [main] The specified filepath "bogus/filepath" was not found.
+2023-04-19 14:26:57,518 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-19 14:26:57,520 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-19 14:26:57,543 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-19 14:26:57,543 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-19 14:26:57,554 INFO o.f.p.r.RunnerJSONParser [main] Successfully read game from "/data/json/GinRummyTestBase.json".
+2023-04-19 14:26:57,555 ERROR o.r.m.s.Stage [main] Error creating player action
+2023-04-19 14:27:23,691 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 14:52:34,405 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 14:56:19,410 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:05:18,131 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:09:22,799 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:22:38,769 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:28:26,398 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:29:20,902 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:34:05,150 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:38:43,376 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:39:10,374 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:42:25,042 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 18:45:16,152 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 19:23:21,177 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 19:29:45,862 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 19:32:31,513 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 19:35:29,898 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 20:14:52,247 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 20:40:00,557 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 20:44:32,454 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 20:55:14,086 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 21:10:58,910 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 21:12:39,687 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 21:41:37,686 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-19 21:44:14,108 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:20:09,294 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:22:35,307 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:26:19,980 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:27:54,699 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:30:48,340 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:46:10,717 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:49:04,813 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:50:13,760 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:51:28,617 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:53:37,288 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:55:33,956 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 02:58:06,008 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 03:01:48,905 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 03:03:09,858 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 03:04:04,357 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 03:06:41,599 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 03:08:49,931 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:31:52,264 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:40:03,959 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:45:48,390 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:47:57,747 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:48:19,571 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:50:20,603 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:52:30,840 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:54:52,019 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:55:05,148 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 15:55:37,833 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:11:34,413 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:15:19,759 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:20:56,541 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:36:54,732 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:37:42,428 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:44:03,881 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:49:57,942 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 16:50:33,120 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:07:12,088 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:11:23,065 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:14:33,009 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:17:26,820 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:21:57,858 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:23:30,745 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:30:02,074 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:34:44,384 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:39:16,618 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:50:54,965 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:52:06,456 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:53:56,450 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 17:59:29,883 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:00:27,419 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:01:02,548 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:02:12,948 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:02:25,574 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:03:06,140 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:03:34,352 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:06:30,858 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:07:08,293 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:07:21,455 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:08:47,389 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:15:32,110 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:18:15,359 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:19:50,749 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-20 18:28:48,539 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 00:59:26,966 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:00:09,567 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:01:12,113 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:03:11,468 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:07:36,556 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:08:21,004 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:09:26,834 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:10:12,912 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:12:13,695 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:17:35,663 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:20:09,036 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:26:52,955 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:31:44,964 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:32:54,664 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:37:18,573 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:38:10,712 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:45:26,171 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 01:46:04,238 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 22:27:54,171 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 22:28:40,820 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 22:30:54,835 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 22:35:12,949 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-21 22:41:07,609 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-24 11:05:42,452 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-24 11:05:44,209 INFO o.f.p.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-25 15:59:59,966 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-25 16:04:14,566 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-25 16:04:36,958 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-25 17:53:31,380 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-25 20:28:01,129 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-26 15:14:00,378 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-26 15:44:10,710 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-27 20:05:38,400 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json".
+2023-04-27 20:40:56,355 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Spiel erfolgreich von ?/data/json/GinRummyTest.json? gelesen.
+2023-04-29 20:38:20,086 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:40:10,641 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:46:19,655 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:47:23,983 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:49:01,049 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:53:32,304 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:55:03,154 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:55:33,523 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:56:37,264 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 20:59:52,566 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:02:05,515 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:05:31,866 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:08:13,002 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:10:02,282 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:15:13,885 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:24:49,955 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 21:26:08,071 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 22:50:42,175 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 22:54:36,418 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully wrote game to "/data/json/test_files/SavedTestGame.json"
+2023-04-29 22:55:56,349 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:12:24,318 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:28:17,423 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:32:09,900 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:34:09,841 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:40:24,683 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:42:11,535 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:57:46,880 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-29 23:59:07,263 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-04-30 00:07:09,588 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/GinRummyTest.json"
+2023-05-01 00:15:23,400 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:17:17,762 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because Transfer Amount
+2023-05-01 00:19:39,809 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:20:56,251 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:38:57,908 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:38:57,970 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:09,954 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:09,994 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:14,553 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:14,593 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:16,734 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:16,762 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:44,790 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:44,840 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:44,994 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:45,016 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:39:45,153 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 00:39:45,168 ERROR o.r.m.s.Game [JavaFX Application Thread] Error during player action - No value present
+2023-05-01 00:41:05,077 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/gin/saved_examples/GinMultTurns.json"
+2023-05-01 12:31:31,267 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/final_game_templates/Gin.json"
+2023-05-01 12:32:18,575 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because All sets must be runs or melds
+2023-05-01 14:13:09,017 DEBUG i.g.n.s.i.n.u.i.l.InternalLoggerFactory [JavaFX Application Thread] Using Log4J2 as the default logging framework
+2023-05-01 14:13:09,036 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] -Dio.netty.noUnsafe: false
+2023-05-01 14:13:09,036 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] Java version: 17
+2023-05-01 14:13:09,039 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] sun.misc.Unsafe.theUnsafe: available
+2023-05-01 14:13:09,041 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] sun.misc.Unsafe.copyMemory: available
+2023-05-01 14:13:09,042 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] sun.misc.Unsafe.storeFence: available
+2023-05-01 14:13:09,043 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] java.nio.Buffer.address: available
+2023-05-01 14:13:09,043 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] direct buffer constructor: unavailable
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.grpc.netty.shaded.io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:287) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:281) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<init>(AsciiString.java:223) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<init>(AsciiString.java:210) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.cached(AsciiString.java:1401) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<clinit>(AsciiString.java:48) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.grpc.netty.Utils.<clinit>(Utils.java:78) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.grpc.netty.UdsNettyChannelProvider.isAvailable(UdsNettyChannelProvider.java:34) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry$ManagedChannelPriorityAccessor.isAvailable(ManagedChannelRegistry.java:213) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry$ManagedChannelPriorityAccessor.isAvailable(ManagedChannelRegistry.java:209) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ServiceProviders.loadAll(ServiceProviders.java:68) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry.getDefaultRegistry(ManagedChannelRegistry.java:101) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelProvider.provider(ManagedChannelProvider.java:43) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelBuilder.forAddress(ManagedChannelBuilder.java:39) ~[grpc-api-1.50.1.jar:1.50.1]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.createSingleChannel(InstantiatingGrpcChannelProvider.java:350) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.ChannelPool.<init>(ChannelPool.java:105) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.ChannelPool.create(ChannelPool.java:83) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.createChannel(InstantiatingGrpcChannelProvider.java:236) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.getTransportChannel(InstantiatingGrpcChannelProvider.java:230) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.rpc.ClientContext.create(ClientContext.java:201) ~[gax-2.19.4.jar:2.19.4]
+	at com.google.api.gax.rpc.ClientContext.create(ClientContext.java:132) ~[gax-2.19.4.jar:2.19.4]
+	at com.google.cloud.firestore.spi.v1.GrpcFirestoreRpc.<init>(GrpcFirestoreRpc.java:127) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreRpcFactory.create(FirestoreOptions.java:88) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreRpcFactory.create(FirestoreOptions.java:80) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.ServiceOptions.getRpc(ServiceOptions.java:560) ~[google-cloud-core-2.8.22.jar:2.8.22]
+	at com.google.cloud.firestore.FirestoreOptions.getFirestoreRpc(FirestoreOptions.java:358) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreImpl.<init>(FirestoreImpl.java:79) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreFactory.create(FirestoreOptions.java:71) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreFactory.create(FirestoreOptions.java:64) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.ServiceOptions.getService(ServiceOptions.java:540) ~[google-cloud-core-2.8.22.jar:2.8.22]
+	at com.google.firebase.cloud.FirestoreClient.<init>(FirestoreClient.java:55) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.<init>(FirestoreClient.java:32) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient$FirestoreInstances.lambda$get$0(FirestoreClient.java:150) ~[firebase-admin-9.1.1.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at java.util.Collections$SynchronizedMap.computeIfAbsent(Collections.java:2760) ~[?:?]
+	at com.google.firebase.cloud.FirestoreClient$FirestoreInstances.get(FirestoreClient.java:150) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getInstance(FirestoreClient.java:121) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getFirestore(FirestoreClient.java:98) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getFirestore(FirestoreClient.java:83) ~[firebase-admin-9.1.1.jar:?]
+	at oogasalad.service.Firebase.initialize(Firebase.java:49) ~[classes/:?]
+	at oogasalad.Main.start(Main.java:76) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:847) ~[javafx.graphics:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:484) ~[javafx.graphics:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:457) ~[javafx.graphics:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:456) ~[javafx.graphics:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96) [javafx.graphics:?]
+2023-05-01 14:13:09,067 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] java.nio.Bits.unaligned: available, true
+2023-05-01 14:13:09,069 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3702c3e9
+	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:560) ~[?:?]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:409) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:400) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<init>(AsciiString.java:223) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<init>(AsciiString.java:210) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.cached(AsciiString.java:1401) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.netty.util.AsciiString.<clinit>(AsciiString.java:48) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.grpc.netty.Utils.<clinit>(Utils.java:78) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.netty.shaded.io.grpc.netty.UdsNettyChannelProvider.isAvailable(UdsNettyChannelProvider.java:34) ~[grpc-netty-shaded-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry$ManagedChannelPriorityAccessor.isAvailable(ManagedChannelRegistry.java:213) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry$ManagedChannelPriorityAccessor.isAvailable(ManagedChannelRegistry.java:209) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ServiceProviders.loadAll(ServiceProviders.java:68) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelRegistry.getDefaultRegistry(ManagedChannelRegistry.java:101) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelProvider.provider(ManagedChannelProvider.java:43) ~[grpc-api-1.50.1.jar:1.50.1]
+	at io.grpc.ManagedChannelBuilder.forAddress(ManagedChannelBuilder.java:39) ~[grpc-api-1.50.1.jar:1.50.1]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.createSingleChannel(InstantiatingGrpcChannelProvider.java:350) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.ChannelPool.<init>(ChannelPool.java:105) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.ChannelPool.create(ChannelPool.java:83) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.createChannel(InstantiatingGrpcChannelProvider.java:236) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.grpc.InstantiatingGrpcChannelProvider.getTransportChannel(InstantiatingGrpcChannelProvider.java:230) ~[gax-grpc-2.19.4.jar:2.19.4]
+	at com.google.api.gax.rpc.ClientContext.create(ClientContext.java:201) ~[gax-2.19.4.jar:2.19.4]
+	at com.google.api.gax.rpc.ClientContext.create(ClientContext.java:132) ~[gax-2.19.4.jar:2.19.4]
+	at com.google.cloud.firestore.spi.v1.GrpcFirestoreRpc.<init>(GrpcFirestoreRpc.java:127) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreRpcFactory.create(FirestoreOptions.java:88) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreRpcFactory.create(FirestoreOptions.java:80) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.ServiceOptions.getRpc(ServiceOptions.java:560) ~[google-cloud-core-2.8.22.jar:2.8.22]
+	at com.google.cloud.firestore.FirestoreOptions.getFirestoreRpc(FirestoreOptions.java:358) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreImpl.<init>(FirestoreImpl.java:79) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreFactory.create(FirestoreOptions.java:71) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.firestore.FirestoreOptions$DefaultFirestoreFactory.create(FirestoreOptions.java:64) ~[google-cloud-firestore-3.7.0.jar:3.7.0]
+	at com.google.cloud.ServiceOptions.getService(ServiceOptions.java:540) ~[google-cloud-core-2.8.22.jar:2.8.22]
+	at com.google.firebase.cloud.FirestoreClient.<init>(FirestoreClient.java:55) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.<init>(FirestoreClient.java:32) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient$FirestoreInstances.lambda$get$0(FirestoreClient.java:150) ~[firebase-admin-9.1.1.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at java.util.Collections$SynchronizedMap.computeIfAbsent(Collections.java:2760) ~[?:?]
+	at com.google.firebase.cloud.FirestoreClient$FirestoreInstances.get(FirestoreClient.java:150) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getInstance(FirestoreClient.java:121) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getFirestore(FirestoreClient.java:98) ~[firebase-admin-9.1.1.jar:?]
+	at com.google.firebase.cloud.FirestoreClient.getFirestore(FirestoreClient.java:83) ~[firebase-admin-9.1.1.jar:?]
+	at oogasalad.service.Firebase.initialize(Firebase.java:49) ~[classes/:?]
+	at oogasalad.Main.start(Main.java:76) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:847) ~[javafx.graphics:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:484) ~[javafx.graphics:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:457) ~[javafx.graphics:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:456) ~[javafx.graphics:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96) [javafx.graphics:?]
+2023-05-01 14:13:09,071 DEBUG i.g.n.s.i.n.u.i.PlatformDependent0 [JavaFX Application Thread] java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2023-05-01 14:13:09,071 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] sun.misc.Unsafe: available
+2023-05-01 14:13:09,072 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] maxDirectMemory: 2147483648 bytes (maybe)
+2023-05-01 14:13:09,073 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] -Dio.netty.tmpdir: /var/folders/kx/f5_fjjp94ml_65zhspfl1gj00000gn/T (java.io.tmpdir)
+2023-05-01 14:13:09,073 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-05-01 14:13:09,074 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] Platform: MacOS
+2023-05-01 14:13:09,075 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] -Dio.netty.maxDirectMemory: -1 bytes
+2023-05-01 14:13:09,075 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-05-01 14:13:09,077 DEBUG i.g.n.s.i.n.u.i.CleanerJava9 [JavaFX Application Thread] java.nio.ByteBuffer.cleaner(): available
+2023-05-01 14:13:09,077 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] -Dio.netty.noPreferDirect: false
+2023-05-01 14:13:09,158 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] -Dio.netty.native.workdir: /var/folders/kx/f5_fjjp94ml_65zhspfl1gj00000gn/T (io.netty.tmpdir)
+2023-05-01 14:13:09,159 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] -Dio.netty.native.deleteLibAfterLoading: true
+2023-05-01 14:13:09,159 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] -Dio.netty.native.tryPatchShadedId: true
+2023-05-01 14:13:09,159 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] -Dio.netty.native.detectNativeLibraryDuplicates: true
+2023-05-01 14:13:09,795 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] Execution of 'install_name_tool -id AinOT5TLXwbmdDaJZdmccMknd /var/folders/kx/f5_fjjp94ml_65zhspfl1gj00000gn/T/libio_grpc_netty_shaded_netty_tcnative_osx_x86_6410340662591452782841.dylib' succeed: 0
+2023-05-01 14:13:09,899 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] Execution of 'codesign -s - /var/folders/kx/f5_fjjp94ml_65zhspfl1gj00000gn/T/libio_grpc_netty_shaded_netty_tcnative_osx_x86_6410340662591452782841.dylib' succeed: 0
+2023-05-01 14:13:10,131 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] Successfully loaded the library /var/folders/kx/f5_fjjp94ml_65zhspfl1gj00000gn/T/libio_grpc_netty_shaded_netty_tcnative_osx_x86_6410340662591452782841.dylib
+2023-05-01 14:13:10,132 DEBUG i.g.n.s.i.n.u.i.NativeLibraryLoader [JavaFX Application Thread] Loaded library with name 'netty_tcnative_osx_x86_64'
+2023-05-01 14:13:10,132 DEBUG i.g.n.s.i.n.h.s.OpenSsl [JavaFX Application Thread] Initialize netty-tcnative using engine: 'default'
+2023-05-01 14:13:10,132 DEBUG i.g.n.s.i.n.h.s.OpenSsl [JavaFX Application Thread] netty-tcnative using native library: BoringSSL
+2023-05-01 14:13:10,330 DEBUG i.g.n.s.i.n.u.ResourceLeakDetector [JavaFX Application Thread] -Dio.grpc.netty.shaded.io.netty.leakDetection.level: simple
+2023-05-01 14:13:10,332 DEBUG i.g.n.s.i.n.u.ResourceLeakDetector [JavaFX Application Thread] -Dio.grpc.netty.shaded.io.netty.leakDetection.targetRecords: 4
+2023-05-01 14:13:10,340 DEBUG i.g.n.s.i.n.b.AbstractByteBuf [JavaFX Application Thread] -Dio.grpc.netty.shaded.io.netty.buffer.checkAccessible: true
+2023-05-01 14:13:10,340 DEBUG i.g.n.s.i.n.b.AbstractByteBuf [JavaFX Application Thread] -Dio.grpc.netty.shaded.io.netty.buffer.checkBounds: true
+2023-05-01 14:13:10,345 DEBUG i.g.n.s.i.n.u.ResourceLeakDetectorFactory [JavaFX Application Thread] Loaded default ResourceLeakDetector: io.grpc.netty.shaded.io.netty.util.ResourceLeakDetector@c622df8
+2023-05-01 14:13:10,364 DEBUG i.g.n.s.i.n.u.i.InternalThreadLocalMap [JavaFX Application Thread] -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-05-01 14:13:10,365 DEBUG i.g.n.s.i.n.u.i.InternalThreadLocalMap [JavaFX Application Thread] -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-05-01 14:13:10,366 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.numHeapArenas: 16
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.numDirectArenas: 16
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.pageSize: 8192
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.maxOrder: 9
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.chunkSize: 4194304
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.smallCacheSize: 256
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.normalCacheSize: 64
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-05-01 14:13:10,367 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.useCacheForAllThreads: false
+2023-05-01 14:13:10,368 DEBUG i.g.n.s.i.n.b.PooledByteBufAllocator [JavaFX Application Thread] -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-05-01 14:13:10,378 DEBUG i.g.n.s.i.n.b.ByteBufUtil [JavaFX Application Thread] -Dio.netty.allocator.type: pooled
+2023-05-01 14:13:10,378 DEBUG i.g.n.s.i.n.b.ByteBufUtil [JavaFX Application Thread] -Dio.netty.threadLocalDirectBufferSize: 0
+2023-05-01 14:13:10,378 DEBUG i.g.n.s.i.n.b.ByteBufUtil [JavaFX Application Thread] -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-05-01 14:13:10,383 DEBUG i.g.n.s.i.n.u.ResourceLeakDetectorFactory [JavaFX Application Thread] Loaded default ResourceLeakDetector: io.grpc.netty.shaded.io.netty.util.ResourceLeakDetector@10c58d36
+2023-05-01 14:13:10,392 DEBUG i.g.n.s.i.n.u.Recycler [JavaFX Application Thread] -Dio.netty.recycler.maxCapacityPerThread: 4096
+2023-05-01 14:13:10,392 DEBUG i.g.n.s.i.n.u.Recycler [JavaFX Application Thread] -Dio.netty.recycler.ratio: 8
+2023-05-01 14:13:10,392 DEBUG i.g.n.s.i.n.u.Recycler [JavaFX Application Thread] -Dio.netty.recycler.chunkSize: 32
+2023-05-01 14:13:10,392 DEBUG i.g.n.s.i.n.u.Recycler [JavaFX Application Thread] -Dio.netty.recycler.blocking: false
+2023-05-01 14:13:10,398 DEBUG i.g.n.s.i.n.u.i.PlatformDependent [JavaFX Application Thread] org.jctools-core.MpscChunkedArrayQueue: available
+2023-05-01 14:13:10,412 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 => ECDHE-ECDSA-AES128-GCM-SHA256
+2023-05-01 14:13:10,412 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 => ECDHE-ECDSA-AES128-GCM-SHA256
+2023-05-01 14:13:10,414 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 => ECDHE-RSA-AES128-GCM-SHA256
+2023-05-01 14:13:10,414 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_RSA_WITH_AES_128_GCM_SHA256 => ECDHE-RSA-AES128-GCM-SHA256
+2023-05-01 14:13:10,414 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 => ECDHE-ECDSA-AES256-GCM-SHA384
+2023-05-01 14:13:10,414 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 => ECDHE-ECDSA-AES256-GCM-SHA384
+2023-05-01 14:13:10,414 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 => ECDHE-RSA-AES256-GCM-SHA384
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_RSA_WITH_AES_256_GCM_SHA384 => ECDHE-RSA-AES256-GCM-SHA384
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-ECDSA-CHACHA20-POLY1305
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-ECDSA-CHACHA20-POLY1305
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-RSA-CHACHA20-POLY1305
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-RSA-CHACHA20-POLY1305
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-PSK-CHACHA20-POLY1305
+2023-05-01 14:13:10,415 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256 => ECDHE-PSK-CHACHA20-POLY1305
+2023-05-01 14:13:10,416 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA => ECDHE-ECDSA-AES128-SHA
+2023-05-01 14:13:10,416 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_ECDSA_WITH_AES_128_CBC_SHA => ECDHE-ECDSA-AES128-SHA
+2023-05-01 14:13:10,416 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA => ECDHE-RSA-AES128-SHA
+2023-05-01 14:13:10,416 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_RSA_WITH_AES_128_CBC_SHA => ECDHE-RSA-AES128-SHA
+2023-05-01 14:13:10,417 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA => ECDHE-PSK-AES128-CBC-SHA
+2023-05-01 14:13:10,417 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_PSK_WITH_AES_128_CBC_SHA => ECDHE-PSK-AES128-CBC-SHA
+2023-05-01 14:13:10,417 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA => ECDHE-ECDSA-AES256-SHA
+2023-05-01 14:13:10,417 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_ECDSA_WITH_AES_256_CBC_SHA => ECDHE-ECDSA-AES256-SHA
+2023-05-01 14:13:10,417 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA => ECDHE-RSA-AES256-SHA
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_RSA_WITH_AES_256_CBC_SHA => ECDHE-RSA-AES256-SHA
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA => ECDHE-PSK-AES256-CBC-SHA
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_ECDHE_PSK_WITH_AES_256_CBC_SHA => ECDHE-PSK-AES256-CBC-SHA
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_RSA_WITH_AES_128_GCM_SHA256 => AES128-GCM-SHA256
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_RSA_WITH_AES_128_GCM_SHA256 => AES128-GCM-SHA256
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_RSA_WITH_AES_256_GCM_SHA384 => AES256-GCM-SHA384
+2023-05-01 14:13:10,418 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_RSA_WITH_AES_256_GCM_SHA384 => AES256-GCM-SHA384
+2023-05-01 14:13:10,419 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_RSA_WITH_AES_128_CBC_SHA => AES128-SHA
+2023-05-01 14:13:10,419 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_RSA_WITH_AES_128_CBC_SHA => AES128-SHA
+2023-05-01 14:13:10,419 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_PSK_WITH_AES_128_CBC_SHA => PSK-AES128-CBC-SHA
+2023-05-01 14:13:10,419 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_PSK_WITH_AES_128_CBC_SHA => PSK-AES128-CBC-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_RSA_WITH_AES_256_CBC_SHA => AES256-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_RSA_WITH_AES_256_CBC_SHA => AES256-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_PSK_WITH_AES_256_CBC_SHA => PSK-AES256-CBC-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_PSK_WITH_AES_256_CBC_SHA => PSK-AES256-CBC-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: TLS_RSA_WITH_3DES_EDE_CBC_SHA => DES-CBC3-SHA
+2023-05-01 14:13:10,420 DEBUG i.g.n.s.i.n.h.s.CipherSuiteConverter [JavaFX Application Thread] Cipher suite mapping: SSL_RSA_WITH_3DES_EDE_CBC_SHA => DES-CBC3-SHA
+2023-05-01 14:13:10,421 DEBUG i.g.n.s.i.n.h.s.OpenSsl [JavaFX Application Thread] Supported protocols (OpenSSL): [SSLv2Hello, TLSv1, TLSv1.1, TLSv1.2, TLSv1.3] 
+2023-05-01 14:13:10,422 DEBUG i.g.n.s.i.n.h.s.OpenSsl [JavaFX Application Thread] Default cipher suites (OpenSSL): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384, TLS_CHACHA20_POLY1305_SHA256]
+2023-05-01 14:13:10,537 DEBUG i.g.n.s.i.n.c.MultithreadEventLoopGroup [JavaFX Application Thread] -Dio.netty.eventLoopThreads: 16
+2023-05-01 14:13:10,559 DEBUG i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] -Dio.netty.noKeySetOptimization: false
+2023-05-01 14:13:10,559 DEBUG i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@60c00f50
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@68d529b3
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@eac93c8
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@4ec00173
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@3f1cd96b
+2023-05-01 14:13:10,562 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@7ec5f78a
+2023-05-01 14:13:10,563 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@149d1949
+2023-05-01 14:13:10,563 TRACE i.g.n.s.i.n.c.n.NioEventLoop [JavaFX Application Thread] instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5a984930
+2023-05-01 14:13:15,421 DEBUG i.g.n.s.i.n.c.DefaultChannelId [grpc-default-executor-0] -Dio.netty.processId: 77432 (auto-detected)
+2023-05-01 14:13:15,425 DEBUG i.g.n.s.i.n.u.NetUtil [grpc-default-executor-0] -Djava.net.preferIPv4Stack: false
+2023-05-01 14:13:15,426 DEBUG i.g.n.s.i.n.u.NetUtil [grpc-default-executor-0] -Djava.net.preferIPv6Addresses: false
+2023-05-01 14:13:15,435 DEBUG i.g.n.s.i.n.u.NetUtilInitializations [grpc-default-executor-0] Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+2023-05-01 14:13:15,437 DEBUG i.g.n.s.i.n.u.NetUtil [grpc-default-executor-0] Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+2023-05-01 14:13:15,441 DEBUG i.g.n.s.i.n.c.DefaultChannelId [grpc-default-executor-0] -Dio.netty.machineId: a0:78:17:ff:fe:b6:f9:10 (auto-detected)
+2023-05-01 14:13:15,722 DEBUG i.g.n.s.i.n.u.ResourceLeakDetectorFactory [grpc-nio-worker-ELG-1-4] Loaded default ResourceLeakDetector: io.grpc.netty.shaded.io.netty.util.ResourceLeakDetector@1c91a721
+2023-05-01 14:13:15,954 DEBUG i.g.n.s.i.n.h.s.SslHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+2023-05-01 14:13:15,961 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND SETTINGS: ack=false settings={=0, =0, =1048576, =8192}
+2023-05-01 14:13:15,962 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND WINDOW_UPDATE: streamId=0 windowSizeIncrement=983041
+2023-05-01 14:13:16,228 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND SETTINGS: ack=false settings={=100, =1048576, =65536}
+2023-05-01 14:13:16,230 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND SETTINGS: ack=true
+2023-05-01 14:13:16,244 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND WINDOW_UPDATE: streamId=0 windowSizeIncrement=983041
+2023-05-01 14:13:16,246 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND SETTINGS: ack=true
+2023-05-01 14:13:16,816 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND HEADERS: streamId=3 headers=GrpcHttp2OutboundHeaders[:authority: firestore.googleapis.com:443, :path: /google.firestore.v1.Firestore/BatchGetDocuments, :method: POST, :scheme: https, content-type: application/grpc, te: trailers, user-agent: grpc-java-netty/1.50.1, x-goog-api-client: gl-java/17.0.5 gccl/3.7.0 gapic/3.7.0 gax/2.19.4 grpc/1.50.1, google-cloud-resource-prefix: projects/houseofcards-e4a2b/databases/(default), x-goog-request-params: database=projects/houseofcards-e4a2b/databases/(default), grpc-accept-encoding: gzip, authorization: Bearer ya29.c.b0Aaekm1JWhOJQRPI6K_lHiGGuXiIg09lQAaY3giJuQUJLS0NOmV92js1kIpTrw4XfNwu9iefggQdxm6D03A7_aDaOAQ3EctymIz21YlPRkeFn61FtKbtpWN-l9wrsPVHrXNn_SjSB4qNqvwYqVLzO0tZ1iYa_H5qN1qncDqlLIXcXbFh8Ke8ZYaVGttrKF8XuIXSKK9I1tjsi1ib710NtHsARgHi4OpLMV4Jvw30EWLMRaPCxukfkEPQlszR_p2YAB8YbnWuiO4LXfsskw0Ls1DtWbih593ooaKaQ5aclk5xhRdhy0A7KU8pyhIgpA8PFVSMuz4TQo69fzqztfrjuMS8G352DeVtpy4ppf1s4RJ7x7uf_2tflxdId4XJtmoRS9hl2jn55fyZoFw2xk6nnwwq7-ylZFfgjQ-j94FQRaUIpbVirtI6YtOgOxJ72sW532luoIS60idyd8lykYQtmatpzqalSRs5Qrbg4SjIlOe6IcIxkFv1Zkbs5nWtsjoaUpir9qihSzZVrUw-6vOQ-sta-e4k4V-uM7Ikrd21-tMQ0Zj7BXkS99plJxX7w_yvsVd8SrgtnUdofFx6MUUOq7zksbx7MsQrjX5fu6YzJ_oWFo1w6xg2fO-XwQBejui32JoV3Sm9eIeXM3k2Z_Xor6UiJoZ5uIWXZf8uQy42b8UbFgsQf5xVjWbfhbdbMY4O5ymf0-3B09ioW4Y_Wpd_n8503JSFWqBkmdxg5xzWvybvaBtXuQds_c2J2QXsOIUWkrZsX_JbikV7BFUJx2m-B2Fmx78I5uYkrpsbfIzlqaOuzwrJgptqscUXYWit9iks3hvrgMSj-5-sm7-b2_MIrp_gUm7x58Ism8J8fVyZ9ftgWF2FIVf9g0ffkuhlBmlZu2olfZod63FjZj1OM98j4ekS0VV1b9Icl1y2eOohovisxcoI4sZrbnXUlqkMh38-c48bizB4gB0Jf2y-RXXaOgSUcj6pOeBufkaFIzUpiRvU1rul6Q5woae_, grpc-timeout: 48358257u] streamDependency=0 weight=16 exclusive=false padding=0 endStream=false
+2023-05-01 14:13:16,823 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND DATA: streamId=3 padding=0 endStream=true length=123 bytes=00000000760a2f70726f6a656374732f686f7573656f6663617264732d65346132622f6461746162617365732f2864656661756c7429124370726f6a65637473...
+2023-05-01 14:13:17,281 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND HEADERS: streamId=3 headers=GrpcHttp2ResponseHeaders[:status: 200, content-disposition: attachment, content-type: application/grpc, date: Mon, 01 May 2023 18:13:16 GMT, alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000] padding=0 endStream=false
+2023-05-01 14:13:17,287 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND DATA: streamId=3 padding=0 endStream=false length=88 bytes=0000000053124370726f6a656374732f686f7573656f6663617264732d65346132622f6461746162617365732f2864656661756c74292f646f63756d656e7473...
+2023-05-01 14:13:17,289 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND PING: ack=false bytes=1234
+2023-05-01 14:13:17,308 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND HEADERS: streamId=3 headers=GrpcHttp2ResponseHeaders[grpc-status: 0, content-disposition: attachment] padding=0 endStream=true
+2023-05-01 14:13:17,314 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND PING: ack=false bytes=0
+2023-05-01 14:13:17,315 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND PING: ack=true bytes=0
+2023-05-01 14:13:17,334 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND PING: ack=true bytes=1234
+2023-05-01 14:13:30,414 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND HEADERS: streamId=5 headers=GrpcHttp2OutboundHeaders[:authority: firestore.googleapis.com:443, :path: /google.firestore.v1.Firestore/BatchGetDocuments, :method: POST, :scheme: https, content-type: application/grpc, te: trailers, user-agent: grpc-java-netty/1.50.1, x-goog-api-client: gl-java/17.0.5 gccl/3.7.0 gapic/3.7.0 gax/2.19.4 grpc/1.50.1, google-cloud-resource-prefix: projects/houseofcards-e4a2b/databases/(default), x-goog-request-params: database=projects/houseofcards-e4a2b/databases/(default), grpc-accept-encoding: gzip, authorization: Bearer ya29.c.b0Aaekm1JWhOJQRPI6K_lHiGGuXiIg09lQAaY3giJuQUJLS0NOmV92js1kIpTrw4XfNwu9iefggQdxm6D03A7_aDaOAQ3EctymIz21YlPRkeFn61FtKbtpWN-l9wrsPVHrXNn_SjSB4qNqvwYqVLzO0tZ1iYa_H5qN1qncDqlLIXcXbFh8Ke8ZYaVGttrKF8XuIXSKK9I1tjsi1ib710NtHsARgHi4OpLMV4Jvw30EWLMRaPCxukfkEPQlszR_p2YAB8YbnWuiO4LXfsskw0Ls1DtWbih593ooaKaQ5aclk5xhRdhy0A7KU8pyhIgpA8PFVSMuz4TQo69fzqztfrjuMS8G352DeVtpy4ppf1s4RJ7x7uf_2tflxdId4XJtmoRS9hl2jn55fyZoFw2xk6nnwwq7-ylZFfgjQ-j94FQRaUIpbVirtI6YtOgOxJ72sW532luoIS60idyd8lykYQtmatpzqalSRs5Qrbg4SjIlOe6IcIxkFv1Zkbs5nWtsjoaUpir9qihSzZVrUw-6vOQ-sta-e4k4V-uM7Ikrd21-tMQ0Zj7BXkS99plJxX7w_yvsVd8SrgtnUdofFx6MUUOq7zksbx7MsQrjX5fu6YzJ_oWFo1w6xg2fO-XwQBejui32JoV3Sm9eIeXM3k2Z_Xor6UiJoZ5uIWXZf8uQy42b8UbFgsQf5xVjWbfhbdbMY4O5ymf0-3B09ioW4Y_Wpd_n8503JSFWqBkmdxg5xzWvybvaBtXuQds_c2J2QXsOIUWkrZsX_JbikV7BFUJx2m-B2Fmx78I5uYkrpsbfIzlqaOuzwrJgptqscUXYWit9iks3hvrgMSj-5-sm7-b2_MIrp_gUm7x58Ism8J8fVyZ9ftgWF2FIVf9g0ffkuhlBmlZu2olfZod63FjZj1OM98j4ekS0VV1b9Icl1y2eOohovisxcoI4sZrbnXUlqkMh38-c48bizB4gB0Jf2y-RXXaOgSUcj6pOeBufkaFIzUpiRvU1rul6Q5woae_, grpc-timeout: 49996935u] streamDependency=0 weight=16 exclusive=false padding=0 endStream=false
+2023-05-01 14:13:30,426 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND DATA: streamId=5 padding=0 endStream=true length=123 bytes=00000000760a2f70726f6a656374732f686f7573656f6663617264732d65346132622f6461746162617365732f2864656661756c7429124370726f6a65637473...
+2023-05-01 14:13:30,596 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND HEADERS: streamId=5 headers=GrpcHttp2ResponseHeaders[:status: 200, content-disposition: attachment, content-type: application/grpc, date: Mon, 01 May 2023 18:13:30 GMT, alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000] padding=0 endStream=false
+2023-05-01 14:13:30,600 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND DATA: streamId=5 padding=0 endStream=false length=88 bytes=0000000053124370726f6a656374732f686f7573656f6663617264732d65346132622f6461746162617365732f2864656661756c74292f646f63756d656e7473...
+2023-05-01 14:13:30,600 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND PING: ack=false bytes=1234
+2023-05-01 14:13:30,604 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND HEADERS: streamId=5 headers=GrpcHttp2ResponseHeaders[grpc-status: 0, content-disposition: attachment] padding=0 endStream=true
+2023-05-01 14:13:30,610 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND PING: ack=false bytes=2
+2023-05-01 14:13:30,611 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] OUTBOUND PING: ack=true bytes=2
+2023-05-01 14:13:30,728 DEBUG i.g.n.s.i.g.n.NettyClientHandler [grpc-nio-worker-ELG-1-4] [id: 0xc1c59584, L:/10.198.140.57:57626 - R:firestore.googleapis.com/142.250.105.95:443] INBOUND PING: ack=true bytes=1234
+2023-05-03 13:09:00,575 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:09:31,976 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because Transfer Amount
+2023-05-03 13:10:01,155 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because Transfer Amount
+2023-05-03 13:14:23,801 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:15:39,168 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/final_game_templates/GinRummy.json"
+2023-05-03 13:16:43,318 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/final_game_templates/GinRummy.json"
+2023-05-03 13:17:39,659 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:18:51,621 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because Transfer Amount
+2023-05-03 13:20:26,456 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:25:13,011 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:27:31,557 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:29:08,505 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because All sets must be runs
+2023-05-03 13:31:54,388 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:32:58,127 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because Transfer Amount
+2023-05-03 13:34:07,940 INFO o.f.r.r.RunnerJSONParser [JavaFX Application Thread] Successfully read game from "/data/json/games/SequenceGin/AndyGame.json"
+2023-05-03 13:34:41,118 ERROR o.r.v.CardViewManager [JavaFX Application Thread] Phase failed because All sets must be runs

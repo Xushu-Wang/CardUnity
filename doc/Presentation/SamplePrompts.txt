@@ -1,0 +1,4 @@
+* Describe how a player wins a round
+* Describe how a player wins the game
+* User Prompt: Given 3h = 3 of hearts, 3d = 3 of diamonds, 3s = 3 of spades, and 3c = 3 of clubs. If the discard pile is (from back to front) 5s 6d 3h and my hand is 2h 9c 5d 4h, what should I do at the start of my turn?
+* What should I do now that I have made that move and there is a set 6c 7c 8c and 5c 5s 5h on the board?
