@@ -1,53 +1,13 @@
 # Card Unity
-## TEAM 01
-## NAMES: Andy Wang (xw214)
+
+Welcome to the Card Unity repository, the hub for a versatile authoring environment and player designed to support a variety of card games.
 
 
-This project implements an authoring environment and player for multiple related card games.
-
-### Timeline
-
- * Start Date: 
-
- * Finish Date: 
-
- * Hours Spent:
+<div align="center">
+<img width="944" alt="Screenshot 2024-05-11 at 21 22 05" src="https://github.com/Xushu-Wang/CardUnity/assets/84580259/c4798f65-e250-4e42-9afa-a0de6f8ec7d0">
+</div>
 
 
-
-### Attributions
-
- * Resources used for learning (including AI assistance)
- 
- * Resources used directly (including AI assistance)
-
-
-### Running the Program
-
- * Main class:
-
- * Data files needed: 
-
- * Interesting data files:
-
- * Key/Mouse inputs:
-
-
-
-### Notes/Assumptions
-
- * Assumptions or Simplifications:
-
- * Known Bugs:
-
- * Features implemented:
-
- * Features unimplemented:
-
- * Noteworthy Features:
-
-
-
-### Assignment Impressions
-
-
+<div align="center">
+<img width="1440" alt="Screenshot 2024-05-11 at 22 02 15" src="https://github.com/Xushu-Wang/CardUnity/assets/84580259/ce183b32-9026-41fe-8931-7425df28e83c">
+</div>
